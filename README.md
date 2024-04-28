@@ -10,6 +10,8 @@
 
 The weights for the custom model was saved in .h5 format which could be used in Flask RestAPI service. 
 
+Demo Video - https://drive.google.com/file/d/1KvEs9nL_FqHusKTmLfkkh24rbRB1_DRr/view?usp=sharing
+
 The app.py contains the flask server and is deployed to Azure Web App service (Hosted **URL **- https://deeplearningrestapi.azurewebsites.net/predict)
 
 The flask server is deployed to Azure ML service where I have used its student explore program pack which consists of 100$ free Azure credits for the same. (Note- Please use the tutorial service before the azure credits gets used up). 
